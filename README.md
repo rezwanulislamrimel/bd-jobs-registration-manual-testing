@@ -74,14 +74,3 @@ The goal of this testing cycle was to validate the key workflows of the BD Jobs 
   * High: 2 (Job Search inaccuracy, Session timeout issue)
   * Medium: 1 (Withdraw button missing)
   * Low: 1 (Blank keyword search)
-
----
-
-## ⚠️ Risks / Issues
-
-* No session timeout → potential security risk.
-* Inaccurate job search → reduces user trust.
-* Missing withdraw option → poor UX for job seekers.
-
-
-Do you want me to also create the **Excel summary file** so you can upload both Word and Excel to GitHub for a complete repo?
